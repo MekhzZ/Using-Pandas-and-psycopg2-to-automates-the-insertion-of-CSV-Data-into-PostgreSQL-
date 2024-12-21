@@ -1,4 +1,4 @@
-# Using Pandas to Insert into PostgreSQL
+# Using Pandas and psycopg2 to automates the insertion of CSV Data into PostgreSQL 
 ## Introduction
 This project showcases how to use Python's pandas library to seamlessly transfer data from CSV files into a PostgreSQL database. It serves as a practical guide for handling database operations programmatically, with a focus on data manipulation and storage.
 ## Prerequisites
